@@ -1,0 +1,36 @@
+/* [project]/src/components/Navbar.module.css [app-client] (css) */
+.Navbar-module__cJzEcG__navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #333;
+  color: #fff;
+}
+
+.Navbar-module__cJzEcG__logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.Navbar-module__cJzEcG__navList {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.Navbar-module__cJzEcG__navItem {
+  margin-left: 1rem;
+}
+
+.Navbar-module__cJzEcG__navItem a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.Navbar-module__cJzEcG__navItem a:hover {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=src_components_Navbar_module_b52d8e88.css.map*/
